@@ -1,0 +1,12 @@
+Package: Rparallel
+Type: Package
+Title: Rparallel
+Version: 2.0
+Date: 2023-04-25
+Author: Xiaoqing Ye
+Maintainer: XiaoqingYe <yexiaoq@163.com>
+Description: An additional R packages for the reproduction scripts.
+License: GPL(>=2)
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
